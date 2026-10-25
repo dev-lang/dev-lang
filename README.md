@@ -46,24 +46,24 @@ Veeam · Veritas · PRTG · Windows Server · Linux
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong><img src="assets/sap.png" width="16" height="16" align="center" alt="SAP" /> <a href="https://github.com/dev-lang/sap-fx-free">sap-fx-free</a></strong>
+      <strong><img src="assets/sap.svg" width="16" height="16" align="center" alt="SAP" /> <a href="https://github.com/dev-lang/sap-fx-free">sap-fx-free</a></strong>
       <p>Fetches BCRA exchange rates and imports currency quotations into SAP ECC.</p>
       <sub>Python · ABAP · SAP ECC</sub>
     </td>
     <td width="50%" valign="top">
-      <strong><img src="assets/sap.png" width="16" height="16" align="center" alt="SAP" /> <a href="https://github.com/dev-lang/sap_abap">sap_abap</a></strong>
+      <strong><img src="assets/sap.svg" width="16" height="16" align="center" alt="SAP" /> <a href="https://github.com/dev-lang/sap_abap">sap_abap</a></strong>
       <p>ABAP programs and utilities for SAP system administration.</p>
       <sub>ABAP · SAP Basis</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong><img src="assets/sap.png" width="16" height="16" align="center" alt="SAP" /> <a href="https://github.com/dev-lang/sap_time">sap_time</a></strong>
+      <strong><img src="assets/sap.svg" width="16" height="16" align="center" alt="SAP" /> <a href="https://github.com/dev-lang/sap_time">sap_time</a></strong>
       <p>Technical resources, scripts and troubleshooting documentation for SAP systems.</p>
       <sub>SAP · PowerShell · Windows</sub>
     </td>
     <td width="50%" valign="top">
-      <strong><img src="assets/sap.png" width="16" height="16" align="center" alt="SAP" /> <a href="https://github.com/dev-lang/aancos_sap_gui">aancos_sap_gui</a></strong>
+      <strong><img src="assets/sap.svg" width="16" height="16" align="center" alt="SAP" /> <a href="https://github.com/dev-lang/aancos_sap_gui">aancos_sap_gui</a></strong>
       <p>Python script to download a list of SAP GUI links hosted on Dropbox.</p>
       <sub>Python · SAP GUI</sub>
     </td>
@@ -75,7 +75,7 @@ Veeam · Veritas · PRTG · Windows Server · Linux
       <sub>Python · Visual FoxPro</sub>
     </td>
     <td width="50%" valign="top">
-      <strong><img src="assets/sap.png" width="16" height="16" align="center" alt="SAP" /> <a href="https://github.com/dev-lang/sapkrnl-bkp">sapkrnl-bkp</a></strong>
+      <strong><img src="assets/sap.svg" width="16" height="16" align="center" alt="SAP" /> <a href="https://github.com/dev-lang/sapkrnl-bkp">sapkrnl-bkp</a></strong>
       <p>Windows batch script for backing up SAP kernel files and profiles.</p>
       <sub>Batch · SAP Kernel</sub>
     </td>
