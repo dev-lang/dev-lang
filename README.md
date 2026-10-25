@@ -25,7 +25,13 @@ Working with enterprise systems, infrastructure and scripting to build practical
 
 **AI & Developer Tools**
 
-AI-assisted development · LLMs · Prompt engineering
+<p align="left">
+  <img src="assets/claude.svg" width="24" height="24" alt="Claude" />
+  <img src="assets/chatgpt.svg" width="24" height="24" alt="ChatGPT" />
+  <img src="assets/visualstudiocode.svg" width="24" height="24" alt="Visual Studio Code" />
+  <img src="assets/claudecode.svg" width="24" height="24" alt="Claude Code" />
+  <img src="assets/lmstudio.svg" width="24" height="24" alt="LM Studio" />
+</p>
 
 **Infrastructure & Operations**
 
